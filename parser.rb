@@ -13,7 +13,9 @@ def potential(*row)
     row.each do |item|
         if item[0].downcase.end_with?('a')
             fraction = item[1]
-        else
+        elsif item[0].downcase.end_with?('cbd')
+            oid = item[1]
+        elsif item[0].downcase.end_with?('thc')
             oid = item[1]
         end
     end
