@@ -1,0 +1,6 @@
+chemical,measurement
+CBD,0.133
+CBDA,NULL
+PINENE,0.0591
+THC,0.141
+THCA,0.001

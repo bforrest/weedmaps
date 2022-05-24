@@ -1,0 +1,8 @@
+chemical,measurement
+CBDa,0.054
+CBD,0.0002
+CBn,0.001
+Geraniol,0.003
+Limonene,0.01
+THC,0.02
+THCa,0.234

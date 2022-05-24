@@ -1,0 +1,9 @@
+chemical,measurement
+cbda,0.002
+cbn,0.001
+geraniol,0.003
+limonene,0.01
+myrcene,0.002
+thc,0.02
+thca,0.234
+thcv,0.003
